@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://veryfirstwebsite.com/frontendmentor/003/](https://veryfirstwebsite.com/frontendmentor/003/)
+- Live Site URL: [https://singular-beijinho-fd2a54.netlify.app/](https://singular-beijinho-fd2a54.netlify.app/)
 
 ### Built with
 
